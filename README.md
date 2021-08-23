@@ -1,4 +1,5 @@
 # Solhint + Prettier Box
+![logo](./box-img-sm.png)
 
 This Truffle Box provides contract linting out of the box.
 
